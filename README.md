@@ -1,1 +1,5 @@
-# ead-UGR-3229-15-lab-2-sqlite
+# Minimal API – SQLite (Lab 2)
+
+A .NET 9 Minimal API using EF-Core with SQLite for persistent storage.
+
+
